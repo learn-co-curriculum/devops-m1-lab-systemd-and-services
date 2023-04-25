@@ -1,4 +1,4 @@
-# Users & Permissions Lab
+# Systemd Service Lab
 
 ## Task
 
